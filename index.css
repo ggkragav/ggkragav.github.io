@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:700|Josefin+Slab:600');
 #header
 {
 	background-image : url("images/background.jpg");
@@ -16,17 +17,20 @@
 	top: 40vh;
 	padding: 0px;
 	margin: 0px auto;
-	width: 50vh;
 }
 #title
 {
+	font-family: 'Arvo', serif;
+
 	color: white;
-	font-size: 5vh;
+	font-size: 7vh;
 	margin: 0px;
 }
 #subtitle
 {
+	font-family: 'Josefin Slab', serif;
 	margin: 0px;
+	font-size: 4vh;
 }
 #gallery
 {
@@ -34,7 +38,7 @@
 }
 #overlay
 {
-	background-color: rgba(100,50,200,0.2);
+	background-color: rgba(140,75,250,0.2);
 	height: 100vh;
 	
 }
