@@ -15,7 +15,7 @@
 {	
 	text-align: center;
 	position: relative; 
-	top: 12vh;
+	top: 10vh;
 	padding: 0px;
 	margin: 0px auto;
 }
@@ -26,10 +26,11 @@
 	font-family: 'Kanit', sans-serif;
 	font-size: 3.3vh;
 	margin: 0px;
+	margin-bottom: 0.5vh;
 	
 	text-align: center;
-	position: relative;
-	top: 82vh;
+	position: sticky;
+	top: 92vh;
 }
 #title
 {
@@ -59,11 +60,25 @@
 /*Gallery part of the page*/
 #gallery
 {
+	
 	height: 90vh;
 	background-image: url("images/gallery.png");
 	border: 0px;
 	margin-top: 2vh;
 }
+
+#dubai-container
+{
+	position : relative;
+	left: 5vw;
+	top: 10vh;
+	
+}
+#dubai
+{
+	height: 30vh;	
+}
+	
 /*General*/
 body
 {
