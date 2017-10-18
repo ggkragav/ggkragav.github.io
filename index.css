@@ -10,24 +10,34 @@
 }
 
 #details
-{
-	background-color: rgba(26,198,255,0.6);
+{	
 	text-align: center;
 	position: relative; 
-	top: 30vh;
+	top: 40vh;
 	padding: 0px;
 	margin: 0px auto;
 	width: 50vh;
 }
 #title
 {
+	color: white;
+	font-size: 5vh;
+	margin: 0px;
+}
+#subtitle
+{
 	margin: 0px;
 }
 #gallery
 {
-	height: 80vh;
+	height: 90vh;
 }
-
+#overlay
+{
+	background-color: rgba(100,50,200,0.2);
+	height: 100vh;
+	
+}
 body
 {
 	padding: none;
