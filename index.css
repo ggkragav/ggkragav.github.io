@@ -6,17 +6,26 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-	height : 1400px;
+	height : 100vh;
 }
 
-#title
+#details
 {
 	background-color: rgba(26,198,255,0.5);
-	text-align : center;
+	text-align: center;
 	position: relative; 
-	top: 100px;
+	top: 30vh;
 	padding: 0px;
+	margin: 0px auto;
+	width: 50vh;
+}
+#title
+{
 	margin: 0px;
+}
+#gallery
+{
+	height: 80vh;
 }
 
 body
