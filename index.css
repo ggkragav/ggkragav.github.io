@@ -35,6 +35,7 @@
 #title
 {
 	font-family: 'Arvo', serif;
+	text-align: center;
 
 	color: white;
 	font-size: 6vh;
@@ -43,6 +44,8 @@
 #subtitle
 {
 	font-family: 'Josefin Slab', serif;
+	text-align: center;
+
 	color: rgb(220,200,100);
 	margin: 0px;
 	font-size: 3.5vh;
