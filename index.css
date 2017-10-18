@@ -58,10 +58,14 @@
 #gallery
 {
 	height: 90vh;
+	background-image: url("images/gallery.png");
+	border: 0px;
+	margin-top: 2vh;
 }
 /*General*/
 body
 {
 	padding: none;
 	margin: 0px;
+	background: rgba(55, 40, 150, 0.5);
 }
