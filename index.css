@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Arvo:700|Josefin+Slab:600');
+@import url('https://fonts.googleapis.com/css?family=Arvo:700|Josefin+Slab:600|Kanit:100');
 /*The header's background*/
 #header
 {
@@ -13,22 +13,31 @@
 /*Details for the header*/
 #details
 {	
+	width: 35vw;
 	text-align: center;
 	position: relative; 
-	top: 35vh;
+	top: 15vh;
 	padding: 0px;
 	margin: 0px auto;
 }
 #description
 {
-	color: rgb(250,100,220);
+	
+	color: rgb(250,150,250);
+	font-family: 'Kanit', sans-serif;
+	font-size: 4vh;
+	margin: 0px;
+	
+	text-align: center;
+	position: relative;
+	top: 82vh;
 }
 #title
 {
 	font-family: 'Arvo', serif;
 
 	color: white;
-	font-size: 7vh;
+	font-size: 6vh;
 	margin: 0px;
 }
 #subtitle
@@ -36,11 +45,11 @@
 	font-family: 'Josefin Slab', serif;
 	color: rgb(220,200,100);
 	margin: 0px;
-	font-size: 4vh;
+	font-size: 3.5vh;
 }
 #overlay
 {
-	background-color: rgba(140,75,250,0.2);
+	background-color: rgba(25,25,70,0.55);
 	height: 100vh;
 	
 }
