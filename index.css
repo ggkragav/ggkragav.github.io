@@ -71,7 +71,6 @@
 	position : relative;
 	top : 10vh;
 	left : 2.4vw;
-	width : 100vw;
 	display : grid;
 	grid-template-columns: 20vw 20vw 20vw 20vw;
 	grid-template-rows: 30vw 30vw;
