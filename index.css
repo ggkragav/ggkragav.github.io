@@ -73,8 +73,8 @@
 	left : 3.6vw;
 	width : 100vw;
 	display : grid;
-	grid-template-columns: 20vh 20vh 20vh 20vh;
-	grid-template-rows: 30vh 30vh;
+	grid-template-columns: 20vw 20vw 20vw 20vw;
+	grid-template-rows: 30vw 30vw;
 	grid-gap: 4rem;
 	
 }
