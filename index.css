@@ -28,8 +28,7 @@
 	margin: 0px;
 	
 	text-align: center;
-	position: sticky;
-	top: 92vh;
+	position: inherit;
 }
 #title
 {
