@@ -69,6 +69,7 @@
 #dubai-container
 {
 	position : relative;
+	align : center;
 	top: 10vh;
 	width : 100%;
 	display : grid;
