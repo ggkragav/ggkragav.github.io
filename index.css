@@ -58,9 +58,10 @@
 
 #container
 {
+	align : center;
 	position : relative;
 	top : 10vh;
-	left : 2.4vw;
+	left : 5vw;
 	display : grid;
 	grid-template-columns: 20vw 20vw 20vw 20vw;
 	grid-template-rows: 30vh 30vh;
