@@ -66,10 +66,13 @@
 	grid-template-rows: 30vh 30vh;
 	grid-gap: 2rem;
 	
+	margin-bottom : 10px;
+	
 }
 #dubai
 {
 	height: 30vh;
+	width : 20vw;
 	border : 2px #eeaadd solid;
 	border-radius : 2px;
 }
