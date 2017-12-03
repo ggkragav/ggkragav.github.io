@@ -59,11 +59,8 @@
 /*Gallery part of the page*/
 #gallery
 {
-	
-	height: 90vh;
 	background-image: url("images/gallery.png");
 	border: 0px;
-	margin-top: 2vh;
 }
 
 #container
