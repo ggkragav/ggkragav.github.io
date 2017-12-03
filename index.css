@@ -73,8 +73,8 @@
 {
 	max-height: 30vh;
 	max-width : 20vw;
-	height : auto;
-	width : auto;
+	min-height : 30vh;
+	min-width : 20vw;
 	border : 2px #eeaadd solid;
 	border-radius : 2px;
 }
