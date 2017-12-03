@@ -72,7 +72,7 @@
 	left: 5vw;
 	top: 10vh;
 	display : grid;
-	grid-template-columns: 288px 288px 228px;
+	grid-template-columns: 288px 288px 228px 288px;
 	grid-template-rows: 162px 162px;
 	grid-gap: 2rem;
 	
