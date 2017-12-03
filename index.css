@@ -28,7 +28,7 @@
 	margin: 0px;
 	
 	text-align: center;
-	position: inherit;
+	position: relative;
 	top: 92vh;
 }
 #title
@@ -54,13 +54,6 @@
 	background-color: rgba(25,25,70,0.55);
 	height: 100vh;
 	
-}
-
-/*Gallery part of the page*/
-#gallery
-{
-	background-image: url("images/gallery.png");
-	border: 0px;
 }
 
 #container
