@@ -28,7 +28,7 @@
 	margin: 0px;
 	
 	text-align: center;
-	position: relative;
+	position: inherit;
 	top: 92vh;
 }
 #title
