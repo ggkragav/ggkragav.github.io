@@ -80,7 +80,8 @@
 }
 #dubai
 {
-	height: 30vh;	
+	height: 30vh;
+	border : 2px #eeaadd solid;
 }
 #about
 {
