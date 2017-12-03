@@ -69,7 +69,7 @@
 #dubai-container
 {
 	position : relative;
-	top : 10vh;
+	top : 2vh;
 	left : 2.4vw;
 	display : grid;
 	grid-template-columns: 20vw 20vw 20vw 20vw;
