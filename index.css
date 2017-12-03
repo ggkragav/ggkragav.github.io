@@ -69,6 +69,8 @@
 #dubai-container
 {
 	position : relative;
+	top : 10vh;
+	left : 3wh
 	width : 100%;
 	display : grid;
 	grid-template-columns: 256px 256px 256px 256px;
