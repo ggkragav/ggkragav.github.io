@@ -82,6 +82,7 @@
 {
 	height: 30vh;
 	border : 2px #eeaadd solid;
+	border-radius : 2px;
 }
 #about
 {
