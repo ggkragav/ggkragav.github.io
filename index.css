@@ -72,8 +72,8 @@
 	left: 5vw;
 	top: 10vh;
 	display : grid;
-	grid-template-columns: 320px 320px 320px;
-	grid-template-rows: 180px 180px;
+	grid-template-columns: 288px 288px 228px;
+	grid-template-rows: 162px 162px;
 	grid-gap: 2rem;
 	
 }
