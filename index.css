@@ -69,6 +69,8 @@
 #dubai-container
 {
 	position : relative;
+	width : 100vw;
+	height : 80vh;
 	top : 10vh;
 	left : 2.4vw;
 	display : grid;
