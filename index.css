@@ -75,6 +75,9 @@
 	max-width : 20vw;
 	min-height : 30vh;
 	min-width : 20vw;
+	height : auto;
+	width : auto;
+	
 	border : 2px #eeaadd solid;
 	border-radius : 2px;
 }
